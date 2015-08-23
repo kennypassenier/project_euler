@@ -13,28 +13,7 @@ def is_concealed_square(n):
                                         if sq[16] == "9":
                                             if sq[18] == "0":
                                                 return True
-                                            else:
-                                                return False
-                                        else:
-                                            return False
-                                    else:
-                                        return False
-                                else:
-                                    return False
-                            else:
-                                return False
-                        else:
-                            return False
-                    else:
-                        return False
-                else:
-                    return False
-            else:
-                return False
-        else:
-            return False
-    else:
-        return False
+    return False
 
 condition = True
 counter = 0
