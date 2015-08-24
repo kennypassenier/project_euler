@@ -1,5 +1,6 @@
 global iterator_a
 
+
 def divisible(n):
     iterator = 1
     while iterator < 21:
@@ -10,7 +11,7 @@ def divisible(n):
     else:
         return True
 iterator_a = 1
-while divisible(iterator_a) == False:
+while divisible(iterator_a) is False:
     print(str(iterator_a) + ' is false')
     iterator_a += 1
 else:
