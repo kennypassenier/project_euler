@@ -2,7 +2,6 @@ import calendar
 import datetime
 
 data = calendar
-
 answer = 0
 for year in range(1901, 2001):
     for month in range(1, 13):

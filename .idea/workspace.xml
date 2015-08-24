@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0860d0ae-c4de-4cbe-a9c0-9e3f3837baa5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Problem 017 - Number letter counts.py" afterPath="$PROJECT_DIR$/Problem 017 - Number letter counts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Problem 019 - Counting Sundays.py" afterPath="$PROJECT_DIR$/Problem 019 - Counting Sundays.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Entertainment Tools.iws" />
@@ -26,26 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Problem 007 - 10001st prime.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem 007 - 10001st prime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem 008 - Largest product in a series.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem 008 - Largest product in a series.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Problem 009 - Special Pythagorean triplet.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 009 - Special Pythagorean triplet.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,12 +98,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem 017 - Number letter counts.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Problem 017 - Number letter counts.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 017 - Number letter counts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.59546924" vertical-offset="640" max-vertical-offset="1258">
+            <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1258">
               <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem 018 - Maximum path sum I.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem 018 - Maximum path sum I.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem 019 - Counting Sundays.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem 019 - Counting Sundays.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24757281" vertical-offset="0" max-vertical-offset="618">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,8 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Swarm Sim.py" />
-        <option value="$PROJECT_DIR$/Muis.py" />
         <option value="$PROJECT_DIR$/Problem 9 - Special Pythagorean triplet.py" />
         <option value="$PROJECT_DIR$/Problem 43 - Sub-string divisibility.py" />
         <option value="$PROJECT_DIR$/Problem 44 - Pentagon numbers.py" />
@@ -197,6 +197,8 @@
         <option value="$PROJECT_DIR$/Problem 012 - Highly divisible triangular number.py" />
         <option value="$PROJECT_DIR$/Problem 014 - Longest Collatz sequence.py" />
         <option value="$PROJECT_DIR$/Problem 017 - Number letter counts.py" />
+        <option value="$PROJECT_DIR$/Problem 018 - Maximum path sum I.py" />
+        <option value="$PROJECT_DIR$/Problem 019 - Counting Sundays.py" />
       </list>
     </option>
   </component>
@@ -299,43 +301,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem 016 - Power digit sum">
-    <configuration default="false" name="Problem 005 - Smallest multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Project Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 005 - Smallest multiple.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Problem 009 - Special Pythagorean triplet" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Project Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 009 - Special Pythagorean triplet.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Problem 019 - Counting Sundays">
     <configuration default="false" name="Problem 011 - Largest product in a grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,6 +351,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Project Euler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 016 - Power digit sum.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem 018 - Maximum path sum I" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project Euler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 018 - Maximum path sum I.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem 019 - Counting Sundays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project Euler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 019 - Counting Sundays.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -632,19 +634,19 @@
       <item index="3" class="java.lang.String" itemvalue="Python.Problem 96 - Sudoku" />
       <item index="4" class="java.lang.String" itemvalue="Python.speeltuin" />
       <item index="5" class="java.lang.String" itemvalue="Python.Playground" />
-      <item index="6" class="java.lang.String" itemvalue="Python.Problem 005 - Smallest multiple" />
-      <item index="7" class="java.lang.String" itemvalue="Python.Problem 009 - Special Pythagorean triplet" />
-      <item index="8" class="java.lang.String" itemvalue="Python.Problem 011 - Largest product in a grid" />
-      <item index="9" class="java.lang.String" itemvalue="Python.Problem 012 - Highly divisible triangular number" />
-      <item index="10" class="java.lang.String" itemvalue="Python.Problem 016 - Power digit sum" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Problem 011 - Largest product in a grid" />
+      <item index="7" class="java.lang.String" itemvalue="Python.Problem 012 - Highly divisible triangular number" />
+      <item index="8" class="java.lang.String" itemvalue="Python.Problem 016 - Power digit sum" />
+      <item index="9" class="java.lang.String" itemvalue="Python.Problem 018 - Maximum path sum I" />
+      <item index="10" class="java.lang.String" itemvalue="Python.Problem 019 - Counting Sundays" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Problem 016 - Power digit sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Problem 012 - Highly divisible triangular number" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Problem 011 - Largest product in a grid" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Problem 009 - Special Pythagorean triplet" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Problem 005 - Smallest multiple" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Problem 019 - Counting Sundays" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Problem 018 - Maximum path sum I" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Problem 016 - Power digit sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Problem 012 - Highly divisible triangular number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Problem 011 - Largest product in a grid" />
       </list>
     </recent_temporary>
   </component>
@@ -694,7 +696,15 @@
       <created>1440450424132</created>
       <updated>1440450424132</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="PEP 8 Compliance">
+      <created>1440450777833</created>
+      <updated>1440450777833</updated>
+    </task>
+    <task id="LOCAL-00011" summary="PEP 8 Compliance">
+      <created>1440450900512</created>
+      <updated>1440450900512</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -731,7 +741,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2189781" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1195366" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30656934" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30656934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="-15" y="502" width="1920" height="374" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30656934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="-15" y="502" width="1920" height="374" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295099" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -792,20 +802,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem 146 - Investigating a Prime Pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887">
-          <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem 029 - Distinct powers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem 030 - Digit fifth powers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
@@ -1168,9 +1164,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 017 - Number letter counts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.59546924" vertical-offset="640" max-vertical-offset="1258">
+        <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1258">
           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 018 - Maximum path sum I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 019 - Counting Sundays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24757281" vertical-offset="0" max-vertical-offset="618">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
