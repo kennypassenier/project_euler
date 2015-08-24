@@ -32,15 +32,10 @@ def letter_score(n):
     return answer
 
 
-temp = []
 with open('names.txt', 'r') as f:
     text_data = f.read()
-print(text_data)
-temp = text_data.split(',')
-temp = sorted(temp)
-data = []
-for i in temp:
-    data.append(i[1 : -1])
+names = text_data.split(',')
+data = [x[1: -1] for x in sorted(names)]
 
 final_answer = 0
 counter = 0
