@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0860d0ae-c4de-4cbe-a9c0-9e3f3837baa5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Problem 021 - Amicable numbers.py" afterPath="$PROJECT_DIR$/Problem 021 - Amicable numbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Problem 024 - Lexicographic permutations.py" afterPath="$PROJECT_DIR$/Problem 024 - Lexicographic permutations.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Entertainment Tools.iws" />
@@ -26,26 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Problem 011 - Largest product in a grid.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem 011 - Largest product in a grid.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem 012 - Highly divisible triangular number.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Problem 012 - Highly divisible triangular number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Problem 013 - Large sum.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 013 - Large sum.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,11 +98,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem 021 - Amicable numbers.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Problem 021 - Amicable numbers.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 021 - Amicable numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7152104" vertical-offset="0" max-vertical-offset="731">
+            <state vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="731">
               <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+              <folding>
+                <marker date="1440452120349" expanded="true" signature="774:922" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem 022 - Names scores.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Problem 022 - Names scores.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="249" max-vertical-offset="867">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem 024 - Lexicographic permutations.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem 024 - Lexicographic permutations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.027508091" vertical-offset="0" max-vertical-offset="618">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,8 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Problem 44 - Pentagon numbers.py" />
-        <option value="$PROJECT_DIR$/Problem 45 - Triangular, pentagonal and hexagonal.py" />
         <option value="$PROJECT_DIR$/Problem 30 - Digit fifth powers.py" />
         <option value="$PROJECT_DIR$/Problem 97 - Large non-Mersenne prime.py" />
         <option value="$PROJECT_DIR$/Problem 3 - Largest prime factor.py" />
@@ -197,6 +197,8 @@
         <option value="$PROJECT_DIR$/Problem 019 - Counting Sundays.py" />
         <option value="$PROJECT_DIR$/Problem 020 - Factorial digit sum.py" />
         <option value="$PROJECT_DIR$/Problem 021 - Amicable numbers.py" />
+        <option value="$PROJECT_DIR$/Problem 022 - Names scores.py" />
+        <option value="$PROJECT_DIR$/Problem 024 - Lexicographic permutations.py" />
       </list>
     </option>
   </component>
@@ -299,43 +301,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem 021 - Amicable numbers">
-    <configuration default="false" name="Problem 016 - Power digit sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Project Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 016 - Power digit sum.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Problem 018 - Maximum path sum I" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Project Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 018 - Maximum path sum I.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Problem 024 - Lexicographic permutations">
     <configuration default="false" name="Problem 019 - Counting Sundays" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,6 +351,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Project Euler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 021 - Amicable numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem 022 - Names scores" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project Euler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 022 - Names scores.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem 024 - Lexicographic permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project Euler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 024 - Lexicographic permutations.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -632,19 +634,19 @@
       <item index="3" class="java.lang.String" itemvalue="Python.Problem 96 - Sudoku" />
       <item index="4" class="java.lang.String" itemvalue="Python.speeltuin" />
       <item index="5" class="java.lang.String" itemvalue="Python.Playground" />
-      <item index="6" class="java.lang.String" itemvalue="Python.Problem 016 - Power digit sum" />
-      <item index="7" class="java.lang.String" itemvalue="Python.Problem 018 - Maximum path sum I" />
-      <item index="8" class="java.lang.String" itemvalue="Python.Problem 019 - Counting Sundays" />
-      <item index="9" class="java.lang.String" itemvalue="Python.Problem 020 - Factorial digit sum" />
-      <item index="10" class="java.lang.String" itemvalue="Python.Problem 021 - Amicable numbers" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Problem 019 - Counting Sundays" />
+      <item index="7" class="java.lang.String" itemvalue="Python.Problem 020 - Factorial digit sum" />
+      <item index="8" class="java.lang.String" itemvalue="Python.Problem 021 - Amicable numbers" />
+      <item index="9" class="java.lang.String" itemvalue="Python.Problem 022 - Names scores" />
+      <item index="10" class="java.lang.String" itemvalue="Python.Problem 024 - Lexicographic permutations" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Problem 021 - Amicable numbers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Problem 020 - Factorial digit sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Problem 019 - Counting Sundays" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Problem 018 - Maximum path sum I" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Problem 016 - Power digit sum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Problem 024 - Lexicographic permutations" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Problem 022 - Names scores" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Problem 021 - Amicable numbers" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Problem 020 - Factorial digit sum" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Problem 019 - Counting Sundays" />
       </list>
     </recent_temporary>
   </component>
@@ -710,7 +712,15 @@
       <created>1440451159115</created>
       <updated>1440451159115</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Code improvement and PEP8 compliance.">
+      <created>1440452171330</created>
+      <updated>1440452171330</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Code improvement and PEP8 compliance.">
+      <created>1440452515184</created>
+      <updated>1440452515184</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -799,7 +809,8 @@
     <MESSAGE value="Does not work yet." />
     <MESSAGE value="PEP 8 Compliance" />
     <MESSAGE value="Small change to the code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Small change to the code." />
+    <MESSAGE value="Code improvement and PEP8 compliance." />
+    <option name="LAST_COMMIT_MESSAGE" value="Code improvement and PEP8 compliance." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -809,20 +820,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem 047 - Distinct prime factors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.52667814" vertical-offset="306" max-vertical-offset="1530">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Problem 204 - Generalised Hamming Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem 216 - Investigating the primality of numbers of the form 2 x npow2 minus 1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
@@ -1191,8 +1188,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 021 - Amicable numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7152104" vertical-offset="0" max-vertical-offset="731">
+        <state vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="731">
           <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <marker date="1440452120349" expanded="true" signature="774:922" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 022 - Names scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="249" max-vertical-offset="867">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 024 - Lexicographic permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.027508091" vertical-offset="0" max-vertical-offset="618">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
