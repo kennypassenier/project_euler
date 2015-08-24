@@ -20,16 +20,4 @@ r = [20, 69, 36, 41, 72, 30, 23, 88, 34, 62, 99, 69, 82, 67, 59, 85, 74, 4, 36, 
 s = [20, 73, 35, 29, 78, 31, 90, 1, 74, 31, 49, 71, 48, 86, 81, 16, 23, 57, 5, 54]
 t = [1, 70, 54, 71, 83, 51, 54, 69, 16, 92, 33, 48, 61, 43, 52, 1, 89, 19, 67, 48]
 
-allemaal = [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t]
-
-def products_of_row(rownumber):
-    pass
-
-def products_of_column(columnnumber):
-    pass
-
-def products_of_downward_diagonal(n):
-    pass
-
-def products_of_upward_diagonal(n):
-    pass
+#Wrong answer deleted
