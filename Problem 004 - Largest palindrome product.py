@@ -1,9 +1,6 @@
 def is_palindrome(a):
     a = str(a)
-    if a == a[::-1]:
-        return True
-    else:
-        return False
+    return a == a[::-1]
 
 results = []
 for first_product in range(1000):
