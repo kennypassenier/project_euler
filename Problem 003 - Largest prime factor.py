@@ -28,7 +28,6 @@ def getFactors(n):
             else:
                 factor_list.append(counter)
                 factor_list.append(int(n / counter))
-                print(counter, int(n / counter))
                 counter += 1
         else:
             counter += 1
@@ -37,8 +36,10 @@ def getFactors(n):
 
 
 for i in getFactors(123456789123456):
-    if isPrime(i):
+    if is_prime(i):
         print(i)
 end = clock()
 
 print(end - start)
+
+#Takes around 42 seconds to run on my pc.
