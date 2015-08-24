@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0860d0ae-c4de-4cbe-a9c0-9e3f3837baa5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Problem 003 - Largest prime factor.py" afterPath="$PROJECT_DIR$/Problem 003 - Largest prime factor.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Entertainment Tools.iws" />
@@ -39,8 +38,18 @@
       <file leaf-file-name="Problem 004 - Largest palindrome product.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 004 - Largest palindrome product.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem 005 - Smallest multiple.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problem 005 - Smallest multiple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5054773" vertical-offset="0" max-vertical-offset="639">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -66,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem 003 - Largest prime factor.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Problem 003 - Largest prime factor.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problem 003 - Largest prime factor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36150235" vertical-offset="143" max-vertical-offset="850">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="143" max-vertical-offset="850">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="22" selection-end-column="29" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -96,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Problem 89 - Roman numerals.py" />
         <option value="$PROJECT_DIR$/Problem 112 - Bouncy numbers.py" />
         <option value="$PROJECT_DIR$/Problem 113 - Non-bouncy numbers.py" />
         <option value="$PROJECT_DIR$/Problem 17 - Number letter counts.py" />
@@ -147,12 +155,12 @@
         <option value="$PROJECT_DIR$/Problem 206 - Concealed Square.py" />
         <option value="$PROJECT_DIR$/Problem 001 - Multiples of 3 and 5.py" />
         <option value="$PROJECT_DIR$/Problem 003 - Largest prime factor.py" />
+        <option value="$PROJECT_DIR$/Problem 004 - Largest palindrome product.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-5" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
@@ -250,25 +258,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.Problem 003 - Largest prime factor">
-    <configuration default="false" name="seriesinfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Project Euler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seriesinfo.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Problem 005 - Smallest multiple">
     <configuration default="false" name="seriesinfo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,6 +326,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Project Euler" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 003 - Largest prime factor.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem 005 - Smallest multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project Euler" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problem 005 - Smallest multiple.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -583,19 +591,19 @@
       <item index="3" class="java.lang.String" itemvalue="Python.Problem 96 - Sudoku" />
       <item index="4" class="java.lang.String" itemvalue="Python.speeltuin" />
       <item index="5" class="java.lang.String" itemvalue="Python.Playground" />
-      <item index="6" class="java.lang.String" itemvalue="Python.seriesinfo" />
-      <item index="7" class="java.lang.String" itemvalue="Python.seriesinfo2" />
-      <item index="8" class="java.lang.String" itemvalue="Python.Problem 004 - Largest palindrome product" />
-      <item index="9" class="java.lang.String" itemvalue="Python.Problem 001 - Multiples of 3 and 5" />
-      <item index="10" class="java.lang.String" itemvalue="Python.Problem 003 - Largest prime factor" />
+      <item index="6" class="java.lang.String" itemvalue="Python.seriesinfo2" />
+      <item index="7" class="java.lang.String" itemvalue="Python.Problem 004 - Largest palindrome product" />
+      <item index="8" class="java.lang.String" itemvalue="Python.Problem 001 - Multiples of 3 and 5" />
+      <item index="9" class="java.lang.String" itemvalue="Python.Problem 003 - Largest prime factor" />
+      <item index="10" class="java.lang.String" itemvalue="Python.Problem 005 - Smallest multiple" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Problem 003 - Largest prime factor" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Problem 001 - Multiples of 3 and 5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Problem 004 - Largest palindrome product" />
-        <item index="3" class="java.lang.String" itemvalue="Python.seriesinfo2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.seriesinfo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Problem 005 - Smallest multiple" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Problem 004 - Largest palindrome product" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Problem 003 - Largest prime factor" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Problem 001 - Multiples of 3 and 5" />
+        <item index="4" class="java.lang.String" itemvalue="Python.seriesinfo2" />
       </list>
     </recent_temporary>
   </component>
@@ -613,7 +621,15 @@
       <created>1440433760040</created>
       <updated>1440433760040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed a small bug.">
+      <created>1440433987873</created>
+      <updated>1440433987873</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Improved the function.">
+      <created>1440434120691</created>
+      <updated>1440434120691</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -637,7 +653,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-5" y="0" width="1936" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -696,7 +712,9 @@
     </option>
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <MESSAGE value="Added an alternative solution." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added an alternative solution." />
+    <MESSAGE value="Fixed a small bug." />
+    <MESSAGE value="Improved the function." />
+    <option name="LAST_COMMIT_MESSAGE" value="Improved the function." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -706,14 +724,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Problem 206 - Concealed Square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem 004 - Largest palindrome product.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="306">
@@ -1052,14 +1062,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Problem 004 - Largest palindrome product.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Problem 001 - Multiples of 3 and 5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
@@ -1078,11 +1080,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problem 003 - Largest prime factor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36150235" vertical-offset="143" max-vertical-offset="850">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="143" max-vertical-offset="850">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="22" selection-end-column="29" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 004 - Largest palindrome product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problem 005 - Smallest multiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5054773" vertical-offset="0" max-vertical-offset="639">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
