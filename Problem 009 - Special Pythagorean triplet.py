@@ -6,8 +6,6 @@ def test(n):
                 if a < b:
                     if b < c:
                         if a + b + c == n:
-                            print(a,b,c)
-                            print(5*'Thats a bingo!!! ')
                             answers.append(str(a) + ':' + str(b) + ':' + str(c))
     return answers
 
@@ -16,10 +14,8 @@ def is_pythagorean_triplet(a, b, c):
     if a >= b:
         if b >= c:
             return False
-    if a ** 2 + b ** 2 == c ** 2:
-        return True
-    else:
-        return False
+    return a ** 2 + b ** 2 == c ** 2
+
 
 for i in test(1000):
     a, b, c = i.split(':')
