@@ -1,42 +1,42 @@
 
 def write_out_number(n):
-    one_to_nineteen = {"1":'one',
-                     "2":"two",
-                     "3":'three',
-                     "4":'four',
-                     "5":'five',
-                     "6":'six',
-                     "7":'seven',
-                     "8":'eight',
-                     "9":'nine',
-                     "10":'ten',
-                     "11":'eleven',
-                     "12":'twelve',
-                     "13":'thirteen',
-                     "14":'fourteen',
-                     "15":'fifteen',
-                     "16":'sixteen',
-                     "17":'seventeen',
-                     "18":'eighteen',
-                     "19":'nineteen'}
-    tens = {"1":'ten',
-            "2":'twenty',
-            "3":'thirty',
-            "4":'forty',
-            "5":'fifty',
-            "6":'sixty',
-            "7":'seventy',
-            "8":'eighty',
-            "9":'ninety'}
-    hundreds = {"1":'onehundred',
-                "2":'twohundred',
-                "3":'threehundred',
-                "4":'fourhundred',
-                "5":'fivehundred',
-                "6":'sixhundred',
-                "7":'sevenhundred',
-                "8":'eighthundred',
-                "9":'ninehundred'}
+    one_to_nineteen = {"1": 'one',
+                       "2": "two",
+                       "3": 'three',
+                       "4": 'four',
+                       "5": 'five',
+                       "6": 'six',
+                       "7": 'seven',
+                       "8": 'eight',
+                       "9": 'nine',
+                       "10": 'ten',
+                       "11": 'eleven',
+                       "12": 'twelve',
+                       "13": 'thirteen',
+                       "14": 'fourteen',
+                       "15": 'fifteen',
+                       "16": 'sixteen',
+                       "17": 'seventeen',
+                       "18": 'eighteen',
+                       "19": 'nineteen'}
+    tens = {"1": 'ten',
+            "2": 'twenty',
+            "3": 'thirty',
+            "4": 'forty',
+            "5": 'fifty',
+            "6": 'sixty',
+            "7": 'seventy',
+            "8": 'eighty',
+            "9": 'ninety'}
+    hundreds = {"1": 'onehundred',
+                "2": 'twohundred',
+                "3": 'threehundred',
+                "4": 'fourhundred',
+                "5": 'fivehundred',
+                "6": 'sixhundred',
+                "7": 'sevenhundred',
+                "8": 'eighthundred',
+                "9": 'ninehundred'}
     n = str(n)
     if len(n) == 4:
         return 'onethousand'
@@ -62,8 +62,6 @@ def write_out_number(n):
                 return tens[n[0]] + one_to_nineteen[n[1]]
     elif len(n) == 1:
         return one_to_nineteen[n]
-    else:
-        return 'Something has gone horribly wrong.'
 
 result = 0
 for i in range(1,1001):
