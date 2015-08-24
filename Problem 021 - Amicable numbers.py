@@ -1,5 +1,8 @@
 from math import sqrt
-def get_proper_divisors(n): #returns a list with all the factors of n
+
+
+def get_proper_divisors(n):
+    #returns a list with all the factors of n without n itself.
     factor_list = []
     result = list(set(factor_list))
     counter = 1
@@ -17,6 +20,7 @@ def get_proper_divisors(n): #returns a list with all the factors of n
     else:
         return result[:-1]
 
+
 def factor_sum(value):
     #returns the sum of the factors of value
     result = 0
@@ -25,20 +29,10 @@ def factor_sum(value):
     return result
 
 
-def is_amicable(value): #True if amicable, false if not
-    test = factor_sum(value)
-    if factor_sum(test) == value:
-        if test != value:
-            return True
-    else:
-        return False
+def is_amicable(value):
+    #True if amicable, false if not
+    test = sum(get_proper_divisors(value))
+    return sum(get_proper_divisors(test)) == value and test != value
 
-results = []
-for i in range(1, 10000):
-    if is_amicable(i):
-        results.append(i)
-print(results)
 
-answer = sum(results)
-
-print(answer)
+print(sum([x for x in range(1, 10000) if is_amicable(x)]))
