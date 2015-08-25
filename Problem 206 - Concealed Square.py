@@ -1,7 +1,8 @@
 
+
 def is_concealed_square(n):
     sq = str(n ** 2)
-    return len(sq) == 19 and sq[::2]=='1234567890'
+    return len(sq) == 19 and sq[::2] == '1234567890'
 
 condition = True
 counter = 0
