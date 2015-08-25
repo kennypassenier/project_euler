@@ -29,3 +29,6 @@ for i in range(100000000):
         print(i)
         hamming_numbers += 1
 print(hamming_numbers)
+
+
+#Does not work at this stage.
