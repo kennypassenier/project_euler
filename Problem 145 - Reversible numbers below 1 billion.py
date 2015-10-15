@@ -39,7 +39,7 @@ def is_reversible(n):
 
 
 answer = 0
-for i in range(1, 1000000000):
+for i in range(1, 100000000):
     if is_reversible(i):
         print(i)
         answer += 1
